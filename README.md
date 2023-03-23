@@ -1,2 +1,2 @@
 # clases-estocasticos-udem
-ejemplos hechos en la clase
+ejemplos echos en la clase
